@@ -1,7 +1,7 @@
 <!-- GitHub star -->
-<a class="github-button" href="https://github.com/red/red" data-icon="octicon-star" data-show-count="true" aria-label="Star hexojs/hexo on GitHub">Star</a>
+<a class="github-button" href="https://github.com/red/red" data-icon="octicon-star" data-show-count="true" aria-label="Star red/red on GitHub">Star</a>
 <!-- GitHub fork -->
-<a class="github-button" href="https://github.com/red/red/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork hexojs/hexo on GitHub">Fork</a><!-- Tweet button -->
+<a class="github-button" href="https://github.com/red/red/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork red/red on GitHub">Fork</a><!-- Tweet button -->
 <!-- Twitter follow button -->
 <a href="https://twitter.com/red_lang" class="twitter-follow-button" data-show-count="true">Follow @red_lang</a>
 <!-- Github Button -->
