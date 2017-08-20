@@ -14,7 +14,7 @@ When your application is ready, you may consider publishing it to the [script li
     $ git clone https://github.com/<username>/code-hub.git
     {% endcode %}
 
-3. Edit `source/_data/plugins.yml` and add your application. For example:
+3. Edit `source/_data/scripts.yml` and add your application. For example:
 
     {% code %}
     - name: logo_turtle

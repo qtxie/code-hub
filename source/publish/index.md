@@ -8,13 +8,13 @@ Explain what's apps should be published here.
 When your application is ready, you may consider publishing it to the [application list](/applications) to invite other people to start using it. 
 
 1. Fork [qtxie/code-hub]
-2. Clone the repository. (Optional)
+2. Clone the repository. (Optional, if you're not using github)
 
     {% code %}
     $ git clone https://github.com/<username>/code-hub.git
     {% endcode %}
 
-3. Edit `source/_data/plugins.yml` and add your application. For example:
+3. Edit `source/_data/applications.yml` and add your application. For example:
 
     {% code %}
     - name: Redraw
