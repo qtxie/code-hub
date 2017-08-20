@@ -1,0 +1,5 @@
+publish:
+  publishing:
+    application: index.html
+    library: library.html
+    script: script.html

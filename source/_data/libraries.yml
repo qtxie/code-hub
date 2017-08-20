@@ -1,0 +1,51 @@
+- name: red-lazyload-image
+  description: lazyload images support for red.
+  link: https://github.com/Troy-Yang/red-lazyload-image
+  tags:
+    - lazyload
+    - images
+    - performance
+- name: red-include-markdown
+  description: This plugin for red can easily load markdown files in Markdown.
+  link: https://github.com/tea3/red-include-markdown
+  tags:
+    - markdown
+    - import
+    - include
+    - partial
+    - load
+    - template
+- name: red-asset-pipeline
+  description: A red plugin to minify/optimize HTML, CSS, JS and images. Supports revisioning of assets.
+  link: https://github.com/bhaskarmelkani/red-asset-pipeline
+  tags:
+    - filter
+    - imagemin
+    - html-minifier
+    - uglify
+    - clean-css
+    - revisioning
+    - versioning
+- name: red-generator-index-plus
+  description: Index generator plus for red, including new order attributes like top and updateDate.
+  link: https://github.com/YuyingWu/red-generator-index-plus
+  tags:
+    - generator
+    - index
+    - top|置顶
+    - updateDate|更新日期
+- name: red-helper-live2d
+  description: Add the Sseexxyyy live2d to your red!
+  link: https://github.com/EYHN/red-helper-live2d.git
+  tags:
+    - live2d
+    - helper
+    - webgl
+- name: red-filter-flowchart
+  description: Generate flowchart diagrams for red.
+  link: https://github.com/bubkoo/red-filter-flowchart
+  tags:
+    - filter
+    - flowchart
+    - diagrams
+    - markdown

@@ -1,0 +1,23 @@
+menu:
+  applications: Applications
+  libraries: Libraries
+  scripts: Scripts
+  publish: Publish
+
+index:
+  categories: Categories
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  publish:
+    publishing: Publishing
+    application: Application
+    library: Library
+    script: Script

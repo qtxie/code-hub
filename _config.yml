@@ -1,0 +1,28 @@
+title: Red Code Hub
+subtitle: "Red code hub."
+description: "Red code hub, a place to share your red code"
+author: The Red Team
+language: en
+timezone: UTC
+
+url: https://code.x--x.red
+root: /
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+
+highlight:
+  enable: true
+  line_number: false
+
+#disqus_shortname: hexojs
+#google_analytics: UA-48498357-3
+#fb_admins: 100000247608790
+
+twitter: red_lang
+github: red/red

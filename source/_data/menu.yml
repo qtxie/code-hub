@@ -1,0 +1,4 @@
+applications: /applications/
+scripts: /scripts/
+libraries: /libraries/
+publish: /publish/

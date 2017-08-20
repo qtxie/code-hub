@@ -1,0 +1,186 @@
+- name: red-offline
+  description: Out-of-the-box red offline experience.
+  link: https://github.com/JLHwung/red-offline
+  tags:
+    - offline
+    - sw-precache
+- name: red-deployer-aliyun
+  description: Aliyun deployer plugin of red.
+  link: https://github.com/yedaodao/red-deployer-aliyun
+  tags:
+    - deployer
+    - Aliyun
+- name: red-generator-to-json
+  description: Generate flatten, plain and reusable json data for state manage using.
+  link: https://github.com/HeskeyBaozi/red-generator-to-json
+  tags:
+    - normalizr
+    - json
+    - api
+    - redux
+- name: red-renderer-sass-bourbon-neat
+  description: Sass renderer plugin for red with Bourbon/Neat support.
+  link: https://github.com/vandreleal/red-renderer-sass-bourbon-neat
+  tags:
+    - renderer
+    - sass
+    - bourbon
+    - neat
+- name: red-renderer-sass-typesettings
+  description: Sass renderer plugin for red with Typesettings support.
+  link: https://github.com/vandreleal/red-renderer-sass-typesettings
+  tags:
+    - renderer
+    - sass
+    - typesettings
+- name: red-tag-theta360
+  description: Embed 360 photos uploaded to theta360.com in your red generated sites.
+  link: https://github.com/rowellx68/red-tag-theta360
+  tags:
+    - theta
+    - photo
+    - 360
+- name: red-renderer-sass
+  description: Sass renderer plugin for red.
+  link: https://github.com/knksmith57/red-renderer-sass
+  tags:
+    - renderer
+    - sass
+- name: red-image-sizes
+  description: Generate multiple images sizes (thumbnail, body, etc.) for each source image
+  link: https://github.com/ottobonn/red-image-sizes
+  tags:
+    - images
+    - processor
+- name: red-instagram-wall
+  description: Displays up to 18 most recent images from your Instagram account
+  link: https://github.com/rdgpt/red-instagram-wall
+  tags:
+    - filter
+    - helper
+    - instagram
+- name: red-renderer-asciidoc
+  description: Asciidoc renderer plugin for red. It underlying call asciidoctor.js as rendering engine.
+  link: https://github.com/hcoona/red-renderer-asciidoc
+  tags:
+    - renderer
+    - asciidoc
+- name: red-translate-title
+  description: "translate the chinese title of red blog to english words automatially"
+  link: https://github.com/cometlj/red-translate-title
+  tags:
+    - permalink
+    - link
+    - 固定链接
+- name: red-generator-topindex
+  description: Top and Index generator plugin for red.
+  link: https://github.com/amlove2/red-generator-topindex
+  tags:
+    - official
+    - generator
+    - index
+    - top|置顶
+- name: red-helper-htmlentities
+  description: red helper plugin for encoding html entities.
+  link: https://github.com/kulikala/red-helper-htmlentities
+  tags:
+    - helper
+    - html-entities
+    - encode
+    - entities
+- name: red-directory-category
+  description: Automatically add category to red article according to the article file directory.
+  link: https://github.com/zthxxx/red-directory-category
+  tags:
+    - category
+    - auto
+    - directory
+    - processor
+- name: red-helper-partial-page
+  description: red helper plugin for including and rendering partial content.
+  link: https://github.com/kulikala/red-helper-partial-page
+  tags:
+    - helper
+    - partial page
+    - template
+- name : red-filter-plantuml
+  description: Generate PlantUML Diagram with markdown code fence
+  link: https://github.com/wafer-li/red-filter-plantuml
+  tags:
+    - filter
+    - plantuml
+    - uml
+    - markdown
+- name : red-slides-reveal
+  description: Generate slide page with reveal.js
+  link: https://github.com/wicksome/red-slides-reveal
+  tags:
+    - slide
+    - slides
+    - markdown
+    - ppt
+    - reveal
+- name: red-generator-json-feed-org
+  description: Generate a JSON feed as per the jsonfeed.org specification
+  link: https://github.com/rmlewisuk/red-generator-json-feed-org
+  tags:
+    - generator
+    - content
+    - json
+    - feed
+    - rss
+    - jsonfeed
+- name: red-douban
+  description: Generate douban pages of books and movies for red.
+  link: https://github.com/mythsman/red-douban 
+  tags:
+    - generator
+    - books
+    - movies
+    - douban
+- name: red-excerpt-block
+  description: Mark excerpt block in post easily and flexible.
+  link: https://github.com/ALiangLiang/red-excerpt-block
+  tags:
+    - excerpt
+    - abstract
+    - description
+- name: red-description
+  description: Auto use post excerpt as description.
+  link: https://github.com/ALiangLiang/red-description
+  tags:
+    - excerpt
+    - abstract
+    - description
+- name: red-number-title
+  description: the red blog post url is displayed as a number.
+  link: https://github.com/hluglk/red-number-title
+  tags:
+    - permalink
+    - link
+    - 固定链接
+- name: red-codepen
+  description: A better version of red-tag-codepen with a valid HTML.
+  link: https://github.com/maliMirkec/red-tag-codepen
+  tags:
+    - tag
+    - codepen
+- name: red-caniuse
+  description: red tag to embed code snippet from caniuse.
+  link: https://github.com/maliMirkec/red-caniuse
+  tags:
+    - tag
+    - caniuse
+- name: red-cloudinary
+  description: red tag to add an image from Cloudinary - with srcset support.
+  link: https://github.com/maliMirkec/red-cloudinary
+  tags:
+    - tag
+    - image
+    - cloudinary
+- name: red-generator-issues
+  description: The red plugin publish your posts to GitHub issues..
+  link: https://github.com/tcatche/red-generator-issues
+  tags:
+    - github
+    - issue
