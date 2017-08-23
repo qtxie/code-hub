@@ -5,3 +5,11 @@
   tags:
     - draw
     - GUI
+
+- name: famtree
+  description: 绘制族谱树
+  link: https://github.com/mahengyang/famtree
+  preview: https://github.com/mahengyang/famtree
+  tags:
+    - 族谱
+	- draw
